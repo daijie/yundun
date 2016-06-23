@@ -8,7 +8,15 @@ yundun.setConf(YOUR_KEY, YOUR_SECRET);
 //设置自己的 key 和 secret
 ```
 
+### 安装
+```javascript
+npm i yundun --save
+```
 
+### 用法
+```javascript
+const yundun = require('yundun');
+```
 
 ### 1.查询是否为钓鱼网址
 

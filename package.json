@@ -1,6 +1,6 @@
 {
   "name": "yundun",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "金山云盾",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,6 @@
     "request": "^2.72.0"
   },
   "devDependencies": {
-    "babel-cli": "^6.10.1",
     "mocha": "^2.5.3"
   }
 }
