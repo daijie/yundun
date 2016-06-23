@@ -2,8 +2,7 @@
 var key='k-33356', 
     secret='a176201e188a0969cd7b7fa2ef3c8d14';
     
-const stringify = require('json-stable-stringify'),
-    request = require('request'),
+const request = require('request'),
     async = require('async'),
     crypto = require('crypto'),
     gateway = 'http://open.pc120.com',
