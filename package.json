@@ -1,0 +1,24 @@
+{
+  "name": "yundun",
+  "version": "1.0.0",
+  "description": "金山云盾",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js -t 60000"
+  },
+  "author": "daijie@php.net",
+  "license": "MIT",
+  "repository" :
+  { 
+      "type" : "git",
+      "url" : "https://github.com/daijie/yundun.git"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "mocha": "^2.5.3"
+  }
+}
